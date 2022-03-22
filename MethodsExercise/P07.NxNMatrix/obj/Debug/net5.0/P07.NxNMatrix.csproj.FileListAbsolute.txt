@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.exe
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.dll
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\ref\P07.NxNMatrix.dll
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\bin\Debug\net5.0\P07.NxNMatrix.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.dll
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\ref\P07.NxNMatrix.dll
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P07.NxNMatrix\obj\Debug\net5.0\P07.NxNMatrix.genruntimeconfig.cache

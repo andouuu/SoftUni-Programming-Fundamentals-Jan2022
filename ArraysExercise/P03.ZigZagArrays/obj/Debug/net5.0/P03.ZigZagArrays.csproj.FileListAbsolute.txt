@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.exe
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.dll
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\ref\P03.ZigZagArrays.dll
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\bin\Debug\net5.0\P03.ZigZagArrays.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.dll
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\ref\P03.ZigZagArrays.dll
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P03.ZigZagArrays\obj\Debug\net5.0\P03.ZigZagArrays.genruntimeconfig.cache

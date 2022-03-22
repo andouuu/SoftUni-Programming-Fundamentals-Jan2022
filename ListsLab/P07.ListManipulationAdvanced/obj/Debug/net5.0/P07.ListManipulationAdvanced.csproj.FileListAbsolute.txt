@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.exe
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.deps.json
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.dll
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\ref\P07.ListManipulationAdvanced.dll
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\bin\Debug\net5.0\P07.ListManipulationAdvanced.pdb
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.dll
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\ref\P07.ListManipulationAdvanced.dll
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.pdb
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.genruntimeconfig.cache
+E:\Programming Fundamentals C#\ListsLab\P07.ListManipulationAdvanced\obj\Debug\net5.0\P07.ListManipulationAdvanced.csproj.AssemblyReference.cache

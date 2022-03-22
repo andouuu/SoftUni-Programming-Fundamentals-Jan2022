@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\P04.PrintingTriangle.exe
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\P04.PrintingTriangle.deps.json
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\P04.PrintingTriangle.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\P04.PrintingTriangle.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\P04.PrintingTriangle.dll
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\ref\P04.PrintingTriangle.dll
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\bin\Debug\net5.0\P04.PrintingTriangle.pdb
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.dll
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\ref\P04.PrintingTriangle.dll
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.pdb
+E:\Programming Fundamentals C#\MethodsLab\P04.PrintingTriangle\obj\Debug\net5.0\P04.PrintingTriangle.genruntimeconfig.cache

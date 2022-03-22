@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\P05.Diggits,LetterAndOther.exe
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\P05.Diggits,LetterAndOther.deps.json
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\P05.Diggits,LetterAndOther.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\P05.Diggits,LetterAndOther.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\P05.Diggits,LetterAndOther.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\ref\P05.Diggits,LetterAndOther.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\bin\Debug\net5.0\P05.Diggits,LetterAndOther.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\ref\P05.Diggits,LetterAndOther.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P05.Diggits,LetterAndOther\obj\Debug\net5.0\P05.Diggits,LetterAndOther.genruntimeconfig.cache

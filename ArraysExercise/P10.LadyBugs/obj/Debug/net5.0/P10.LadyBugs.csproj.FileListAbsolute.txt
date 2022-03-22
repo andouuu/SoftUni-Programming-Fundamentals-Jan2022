@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.exe
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.dll
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\ref\P10.LadyBugs.dll
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\bin\Debug\net5.0\P10.LadyBugs.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.dll
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\ref\P10.LadyBugs.dll
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P10.LadyBugs\obj\Debug\net5.0\P10.LadyBugs.genruntimeconfig.cache

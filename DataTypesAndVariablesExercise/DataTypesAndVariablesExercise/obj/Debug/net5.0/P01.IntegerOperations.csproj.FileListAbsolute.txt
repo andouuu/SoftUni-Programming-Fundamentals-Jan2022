@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\P01.IntegerOperations.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\P01.IntegerOperations.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\P01.IntegerOperations.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\P01.IntegerOperations.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\P01.IntegerOperations.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\ref\P01.IntegerOperations.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\bin\Debug\net5.0\P01.IntegerOperations.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\ref\P01.IntegerOperations.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\DataTypesAndVariablesExercise\obj\Debug\net5.0\P01.IntegerOperations.genruntimeconfig.cache

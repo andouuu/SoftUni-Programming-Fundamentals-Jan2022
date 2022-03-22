@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\P02.OddOccurrences.exe
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\P02.OddOccurrences.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\P02.OddOccurrences.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\P02.OddOccurrences.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\P02.OddOccurrences.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\ref\P02.OddOccurrences.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\bin\Debug\net5.0\P02.OddOccurrences.pdb
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\ref\P02.OddOccurrences.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.pdb
+E:\Programming Fundamentals C#\AssociativeArraysLab\P02.OddOccurrences\obj\Debug\net5.0\P02.OddOccurrences.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.exe
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.dll
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\ref\P09.KaminoFactory.dll
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\bin\Debug\net5.0\P09.KaminoFactory.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.dll
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\ref\P09.KaminoFactory.dll
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P09.KaminoFactory\obj\Debug\net5.0\P09.KaminoFactory.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\P04.Orders.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\P04.Orders.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\P04.Orders.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\P04.Orders.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\P04.Orders.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\ref\P04.Orders.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\bin\Debug\net5.0\P04.Orders.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\ref\P04.Orders.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P04.Orders\obj\Debug\net5.0\P04.Orders.genruntimeconfig.cache

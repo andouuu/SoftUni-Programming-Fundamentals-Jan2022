@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.exe
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.deps.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.runtimeconfig.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\ref\P13.DebugTheCodeHolidaysBetweenTwoDates.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\bin\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.AssemblyInfo.cs
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\ref\P13.DebugTheCodeHolidaysBetweenTwoDates.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.genruntimeconfig.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P13.DebugTheCodeHolidaysBetweenTwoDates\obj\Debug\net5.0\P13.DebugTheCodeHolidaysBetweenTwoDates.csproj.AssemblyReference.cache

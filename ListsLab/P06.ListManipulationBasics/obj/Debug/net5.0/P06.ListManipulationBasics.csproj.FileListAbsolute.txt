@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\P06.ListManipulationBasics.exe
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\P06.ListManipulationBasics.deps.json
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\P06.ListManipulationBasics.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\P06.ListManipulationBasics.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\P06.ListManipulationBasics.dll
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\ref\P06.ListManipulationBasics.dll
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\bin\Debug\net5.0\P06.ListManipulationBasics.pdb
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.dll
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\ref\P06.ListManipulationBasics.dll
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.pdb
+E:\Programming Fundamentals C#\ListsLab\P06.ListManipulationBasics\obj\Debug\net5.0\P06.ListManipulationBasics.genruntimeconfig.cache

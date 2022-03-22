@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\P07.AppendArrays.exe
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\P07.AppendArrays.deps.json
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\P07.AppendArrays.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\P07.AppendArrays.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\P07.AppendArrays.dll
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\ref\P07.AppendArrays.dll
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\bin\Debug\net5.0\P07.AppendArrays.pdb
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.dll
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\ref\P07.AppendArrays.dll
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.pdb
+E:\Programming Fundamentals C#\ListsExercise\P07.AppendArrays\obj\Debug\net5.0\P07.AppendArrays.genruntimeconfig.cache

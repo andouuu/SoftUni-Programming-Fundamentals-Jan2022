@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\ref\P06.TriplesOfLatinLetters.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\bin\Debug\net5.0\P06.TriplesOfLatinLetters.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\ref\P06.TriplesOfLatinLetters.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P06.TriplesOfLatinLetters\obj\Debug\net5.0\P06.TriplesOfLatinLetters.genruntimeconfig.cache

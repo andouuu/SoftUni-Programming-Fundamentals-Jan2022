@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\P03.RoundingNumbers.exe
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\P03.RoundingNumbers.deps.json
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\P03.RoundingNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\P03.RoundingNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\P03.RoundingNumbers.dll
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\ref\P03.RoundingNumbers.dll
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\bin\Debug\net5.0\P03.RoundingNumbers.pdb
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.dll
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\ref\P03.RoundingNumbers.dll
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.pdb
+E:\Programming Fundamentals C#\ArraysLab\P03.RoundingNumbers\obj\Debug\net5.0\P03.RoundingNumbers.genruntimeconfig.cache

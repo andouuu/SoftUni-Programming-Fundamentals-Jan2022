@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\ref\P04.SumOfChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\bin\Debug\net5.0\P04.SumOfChars.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\ref\P04.SumOfChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P04.SumOfChars\obj\Debug\net5.0\P04.SumOfChars.genruntimeconfig.cache

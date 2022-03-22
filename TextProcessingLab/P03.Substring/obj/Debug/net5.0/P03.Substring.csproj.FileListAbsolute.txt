@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\P03.Substring.exe
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\P03.Substring.deps.json
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\P03.Substring.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\P03.Substring.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\P03.Substring.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\ref\P03.Substring.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\bin\Debug\net5.0\P03.Substring.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\ref\P03.Substring.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P03.Substring\obj\Debug\net5.0\P03.Substring.genruntimeconfig.cache

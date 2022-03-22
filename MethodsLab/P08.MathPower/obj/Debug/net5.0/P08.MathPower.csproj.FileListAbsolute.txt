@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\P08.MathPower.exe
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\P08.MathPower.deps.json
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\P08.MathPower.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\P08.MathPower.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\P08.MathPower.dll
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\ref\P08.MathPower.dll
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\bin\Debug\net5.0\P08.MathPower.pdb
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.dll
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\ref\P08.MathPower.dll
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.pdb
+E:\Programming Fundamentals C#\MethodsLab\P08.MathPower\obj\Debug\net5.0\P08.MathPower.genruntimeconfig.cache

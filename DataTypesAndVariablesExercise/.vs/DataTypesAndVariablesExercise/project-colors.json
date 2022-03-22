@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88daec58-8d15-47f8-8819-7882cff5bbf7": {
+      "ProjectGuid": "88daec58-8d15-47f8-8819-7882cff5bbf7",
+      "DisplayName": "P01.IntegerOperations",
+      "ColorIndex": 0
+    },
+    "6e194f5c-e942-44a3-9733-bb9eee791fcb": {
+      "ProjectGuid": "6e194f5c-e942-44a3-9733-bb9eee791fcb",
+      "DisplayName": "P02.SumDigits",
+      "ColorIndex": 1
+    },
+    "1150ac1d-f87b-4106-b9d9-931ecdffa294": {
+      "ProjectGuid": "1150ac1d-f87b-4106-b9d9-931ecdffa294",
+      "DisplayName": "P03.Elevator",
+      "ColorIndex": 2
+    },
+    "95fe5f71-c560-4b81-9dac-e9a8fe45b494": {
+      "ProjectGuid": "95fe5f71-c560-4b81-9dac-e9a8fe45b494",
+      "DisplayName": "P04.SumOfChars",
+      "ColorIndex": 3
+    },
+    "e672a75b-376e-4cb2-89fc-6be3a3195e5b": {
+      "ProjectGuid": "e672a75b-376e-4cb2-89fc-6be3a3195e5b",
+      "DisplayName": "P05.PrintPartOfASCIITable",
+      "ColorIndex": 4
+    },
+    "c32c9276-61a5-4313-be43-3986c0be29d4": {
+      "ProjectGuid": "c32c9276-61a5-4313-be43-3986c0be29d4",
+      "DisplayName": "P06.TriplesOfLatinLetters",
+      "ColorIndex": 5
+    },
+    "4eda1ff2-cb41-4d5b-b89a-29c9b07546b6": {
+      "ProjectGuid": "4eda1ff2-cb41-4d5b-b89a-29c9b07546b6",
+      "DisplayName": "P07.WaterOverflow",
+      "ColorIndex": 6
+    },
+    "830f53b0-c4b4-4708-aacf-99ea1e1d77c8": {
+      "ProjectGuid": "830f53b0-c4b4-4708-aacf-99ea1e1d77c8",
+      "DisplayName": "P08.BeerKegs",
+      "ColorIndex": 7
+    },
+    "9f2d6be8-185f-4e8d-bceb-218680a9d295": {
+      "ProjectGuid": "9f2d6be8-185f-4e8d-bceb-218680a9d295",
+      "DisplayName": "P09.SpiceMustFlow",
+      "ColorIndex": 8
+    },
+    "c3e04a84-4d4e-4367-9e7d-8718ebbfe1b8": {
+      "ProjectGuid": "c3e04a84-4d4e-4367-9e7d-8718ebbfe1b8",
+      "DisplayName": "P10.PokeMon",
+      "ColorIndex": 9
+    },
+    "d9df9ce6-25e9-422b-98b8-6063614f7467": {
+      "ProjectGuid": "d9df9ce6-25e9-422b-98b8-6063614f7467",
+      "DisplayName": "P11.Snowballs",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

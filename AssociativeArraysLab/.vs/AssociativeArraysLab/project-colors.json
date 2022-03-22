@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d69b0dca-4331-44dd-a37a-b6dbf36a7f21": {
+      "ProjectGuid": "d69b0dca-4331-44dd-a37a-b6dbf36a7f21",
+      "DisplayName": "P01.CountRealNumbers",
+      "ColorIndex": 0
+    },
+    "5b23d094-3e40-4a43-b5c3-051e982a9c80": {
+      "ProjectGuid": "5b23d094-3e40-4a43-b5c3-051e982a9c80",
+      "DisplayName": "P02.OddOccurrences",
+      "ColorIndex": 1
+    },
+    "862dd502-f8fe-4a66-ba25-3e3f8b2c351a": {
+      "ProjectGuid": "862dd502-f8fe-4a66-ba25-3e3f8b2c351a",
+      "DisplayName": "P03.WordSynonyms",
+      "ColorIndex": 2
+    },
+    "5b87ff42-36e4-4d6a-98db-1e544277a82e": {
+      "ProjectGuid": "5b87ff42-36e4-4d6a-98db-1e544277a82e",
+      "DisplayName": "P04.WordFilter",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "741a820a-70b6-4e05-bf0d-e0a91dc1a74b": {
+      "ProjectGuid": "741a820a-70b6-4e05-bf0d-e0a91dc1a74b",
+      "DisplayName": "P01.ReverseStrings",
+      "ColorIndex": 0
+    },
+    "80aa043c-9593-490c-8529-f13c54f4aec9": {
+      "ProjectGuid": "80aa043c-9593-490c-8529-f13c54f4aec9",
+      "DisplayName": "P02.RepeatStrings",
+      "ColorIndex": 1
+    },
+    "06c95baa-cfdd-47db-b6bb-9db521a9f336": {
+      "ProjectGuid": "06c95baa-cfdd-47db-b6bb-9db521a9f336",
+      "DisplayName": "P03.Substring",
+      "ColorIndex": 2
+    },
+    "f225b619-f0d7-410b-b343-4f901ea747db": {
+      "ProjectGuid": "f225b619-f0d7-410b-b343-4f901ea747db",
+      "DisplayName": "P04.TextFilter",
+      "ColorIndex": 3
+    },
+    "ce1deebf-9214-4e41-8873-1669ac88cb1b": {
+      "ProjectGuid": "ce1deebf-9214-4e41-8873-1669ac88cb1b",
+      "DisplayName": "P05.Diggits,LetterAndOther",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

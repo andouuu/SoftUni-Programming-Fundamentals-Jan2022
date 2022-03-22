@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\P02.exe
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\P02.deps.json
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\P02.runtimeconfig.json
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\P02.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\P02.dll
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\ref\P02.dll
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\bin\Debug\net5.0\P02.pdb
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.AssemblyInfo.cs
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.dll
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\ref\P02.dll
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.pdb
+E:\Programming Fundamentals C#\CSFundamentalsMidExam\P02\obj\Debug\net5.0\P02.genruntimeconfig.cache

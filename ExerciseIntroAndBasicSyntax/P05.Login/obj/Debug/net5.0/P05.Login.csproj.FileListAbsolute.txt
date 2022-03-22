@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\P05.Login.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\P05.Login.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\P05.Login.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\P05.Login.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\P05.Login.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\ref\P05.Login.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\bin\Debug\net5.0\P05.Login.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\ref\P05.Login.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.genruntimeconfig.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P05.Login\obj\Debug\net5.0\P05.Login.csproj.AssemblyReference.cache

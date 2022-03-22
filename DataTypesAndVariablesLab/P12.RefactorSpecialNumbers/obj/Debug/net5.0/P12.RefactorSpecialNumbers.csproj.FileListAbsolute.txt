@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\P12.RefactorSpecialNumbers.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\P12.RefactorSpecialNumbers.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\P12.RefactorSpecialNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\P12.RefactorSpecialNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\P12.RefactorSpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\ref\P12.RefactorSpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\bin\Debug\net5.0\P12.RefactorSpecialNumbers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\ref\P12.RefactorSpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P12.RefactorSpecialNumbers\obj\Debug\net5.0\P12.RefactorSpecialNumbers.genruntimeconfig.cache

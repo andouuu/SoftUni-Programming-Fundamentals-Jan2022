@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\P02.RepeatStrings.exe
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\P02.RepeatStrings.deps.json
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\P02.RepeatStrings.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\P02.RepeatStrings.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\P02.RepeatStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\ref\P02.RepeatStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\bin\Debug\net5.0\P02.RepeatStrings.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\ref\P02.RepeatStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P02.RepeatStrings\obj\Debug\net5.0\P02.RepeatStrings.genruntimeconfig.cache

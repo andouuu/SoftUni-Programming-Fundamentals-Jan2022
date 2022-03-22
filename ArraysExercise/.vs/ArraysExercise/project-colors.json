@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d793c1f4-ddd5-4ee4-9676-0c25aa5f1d89": {
+      "ProjectGuid": "d793c1f4-ddd5-4ee4-9676-0c25aa5f1d89",
+      "DisplayName": "P02.CommonElements",
+      "ColorIndex": 0
+    },
+    "d86e0f83-719c-4d07-bd7c-ec26cb93cd08": {
+      "ProjectGuid": "d86e0f83-719c-4d07-bd7c-ec26cb93cd08",
+      "DisplayName": "P03.ZigZagArrays",
+      "ColorIndex": 1
+    },
+    "153df117-d928-45c4-a63c-d094cd563611": {
+      "ProjectGuid": "153df117-d928-45c4-a63c-d094cd563611",
+      "DisplayName": "P04.ArrayRotation",
+      "ColorIndex": 2
+    },
+    "96a9a868-d5c8-45df-acce-40182aff5ede": {
+      "ProjectGuid": "96a9a868-d5c8-45df-acce-40182aff5ede",
+      "DisplayName": "P05.TopIntegers",
+      "ColorIndex": 3
+    },
+    "db915cb7-999a-458d-b634-4cbbc1585a67": {
+      "ProjectGuid": "db915cb7-999a-458d-b634-4cbbc1585a67",
+      "DisplayName": "P06.EqualSum",
+      "ColorIndex": 4
+    },
+    "aa9bb743-65e0-45d6-9944-f6e67bab9ef5": {
+      "ProjectGuid": "aa9bb743-65e0-45d6-9944-f6e67bab9ef5",
+      "DisplayName": "P07.MaxSequenceOfEqualElements",
+      "ColorIndex": 5
+    },
+    "b0e56fcc-6a93-4861-93e3-a4c135b2e62f": {
+      "ProjectGuid": "b0e56fcc-6a93-4861-93e3-a4c135b2e62f",
+      "DisplayName": "P08.MagicSum",
+      "ColorIndex": 6
+    },
+    "174f7574-c9c9-406b-9b8c-51f52900adee": {
+      "ProjectGuid": "174f7574-c9c9-406b-9b8c-51f52900adee",
+      "DisplayName": "P09.KaminoFactory",
+      "ColorIndex": 7
+    },
+    "d7437c01-4558-47ca-bd77-2216a17db503": {
+      "ProjectGuid": "d7437c01-4558-47ca-bd77-2216a17db503",
+      "DisplayName": "P10.LadyBugs",
+      "ColorIndex": 8
+    },
+    "e3e52a50-99c8-467d-a023-55e7921a92fe": {
+      "ProjectGuid": "e3e52a50-99c8-467d-a023-55e7921a92fe",
+      "DisplayName": "P01.Train",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

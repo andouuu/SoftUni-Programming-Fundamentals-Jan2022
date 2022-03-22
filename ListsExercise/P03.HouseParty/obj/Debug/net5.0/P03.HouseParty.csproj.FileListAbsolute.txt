@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.exe
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.deps.json
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.dll
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\ref\P03.HouseParty.dll
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\bin\Debug\net5.0\P03.HouseParty.pdb
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.dll
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\ref\P03.HouseParty.dll
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.pdb
+E:\Programming Fundamentals C#\ListsExercise\P03.HouseParty\obj\Debug\net5.0\P03.HouseParty.genruntimeconfig.cache

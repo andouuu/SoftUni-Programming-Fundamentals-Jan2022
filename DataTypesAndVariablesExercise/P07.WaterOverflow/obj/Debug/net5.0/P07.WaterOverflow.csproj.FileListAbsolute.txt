@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\ref\P07.WaterOverflow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\bin\Debug\net5.0\P07.WaterOverflow.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\ref\P07.WaterOverflow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P07.WaterOverflow\obj\Debug\net5.0\P07.WaterOverflow.genruntimeconfig.cache

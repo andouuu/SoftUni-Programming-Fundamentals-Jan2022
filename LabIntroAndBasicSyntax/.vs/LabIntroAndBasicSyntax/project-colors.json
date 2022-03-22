@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd038633-1782-44b6-a431-0b10854bab75": {
+      "ProjectGuid": "fd038633-1782-44b6-a431-0b10854bab75",
+      "DisplayName": "P13.DebugTheCodeHolidaysBetweenTwoDates",
+      "ColorIndex": 0
+    },
+    "d02a1bfd-1686-43ac-b041-8e33551a4eef": {
+      "ProjectGuid": "d02a1bfd-1686-43ac-b041-8e33551a4eef",
+      "DisplayName": "P12.EvenNumber",
+      "ColorIndex": 1
+    },
+    "d20286b8-80f3-468b-afb6-2052b2e0fb0a": {
+      "ProjectGuid": "d20286b8-80f3-468b-afb6-2052b2e0fb0a",
+      "DisplayName": "P11.MultiplicationTable2.0",
+      "ColorIndex": 2
+    },
+    "2f0e482d-9933-4805-92fb-822c98f690d8": {
+      "ProjectGuid": "2f0e482d-9933-4805-92fb-822c98f690d8",
+      "DisplayName": "P10.MultiplicationTable",
+      "ColorIndex": 3
+    },
+    "d8492818-1005-4925-aa57-b5a38a915dd7": {
+      "ProjectGuid": "d8492818-1005-4925-aa57-b5a38a915dd7",
+      "DisplayName": "P09.SumOfOddNumbers",
+      "ColorIndex": 4
+    },
+    "ab794674-28e5-455a-9a7b-2cbc47179efe": {
+      "ProjectGuid": "ab794674-28e5-455a-9a7b-2cbc47179efe",
+      "DisplayName": "P08.DivisibleBy3",
+      "ColorIndex": 5
+    },
+    "565851b7-613a-4060-ac52-fef8fc467486": {
+      "ProjectGuid": "565851b7-613a-4060-ac52-fef8fc467486",
+      "DisplayName": "P07.TheatrePromotions",
+      "ColorIndex": 6
+    },
+    "9a9bc0e0-d021-41c1-be2a-c882c14ebb94": {
+      "ProjectGuid": "9a9bc0e0-d021-41c1-be2a-c882c14ebb94",
+      "DisplayName": "P06.ForeignLanguages",
+      "ColorIndex": 7
+    },
+    "5da2f926-1dc2-46e8-9f67-af2428da5065": {
+      "ProjectGuid": "5da2f926-1dc2-46e8-9f67-af2428da5065",
+      "DisplayName": "P05.MonthPrinter",
+      "ColorIndex": 8
+    },
+    "61c17c73-e49b-4185-87d7-ef5141a58e76": {
+      "ProjectGuid": "61c17c73-e49b-4185-87d7-ef5141a58e76",
+      "DisplayName": "P04.BackIn30Minutes",
+      "ColorIndex": 9
+    },
+    "679dd409-ad8b-4570-81fe-c3eb400f74dc": {
+      "ProjectGuid": "679dd409-ad8b-4570-81fe-c3eb400f74dc",
+      "DisplayName": "P03.PassedOrFailed",
+      "ColorIndex": 10
+    },
+    "4cbd8291-f79a-4795-8c05-c2ef48d9030e": {
+      "ProjectGuid": "4cbd8291-f79a-4795-8c05-c2ef48d9030e",
+      "DisplayName": "P02.Passed",
+      "ColorIndex": 11
+    },
+    "2b113d35-1ee2-40a0-94bd-61cd32cd3a5c": {
+      "ProjectGuid": "2b113d35-1ee2-40a0-94bd-61cd32cd3a5c",
+      "DisplayName": "P01.Student Information",
+      "ColorIndex": 12
+    },
+    "0539eca9-d91b-4393-bde6-8a96f7d81260": {
+      "ProjectGuid": "0539eca9-d91b-4393-bde6-8a96f7d81260",
+      "DisplayName": "P13.BetweenTwoDates",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

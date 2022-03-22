@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.exe
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.dll
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\ref\P02.VowelsCount.dll
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\bin\Debug\net5.0\P02.VowelsCount.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.dll
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\ref\P02.VowelsCount.dll
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P02.VowelsCount\obj\Debug\net5.0\P02.VowelsCount.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\P05.MultiplyBigNumber.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\P05.MultiplyBigNumber.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\P05.MultiplyBigNumber.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\P05.MultiplyBigNumber.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\P05.MultiplyBigNumber.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\ref\P05.MultiplyBigNumber.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\bin\Debug\net5.0\P05.MultiplyBigNumber.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\ref\P05.MultiplyBigNumber.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P05.MultiplyBigNumber\obj\Debug\net5.0\P05.MultiplyBigNumber.genruntimeconfig.cache

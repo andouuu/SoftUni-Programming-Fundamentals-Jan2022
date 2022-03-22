@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32966ebc-3ece-4737-966d-089c0cd65042": {
+      "ProjectGuid": "32966ebc-3ece-4737-966d-089c0cd65042",
+      "DisplayName": "P01.Train",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b5419ac9-746f-4c9b-a035-196a80068070": {
+      "ProjectGuid": "b5419ac9-746f-4c9b-a035-196a80068070",
+      "DisplayName": "P02.ChangeList",
+      "ColorIndex": 1
+    },
+    "ac3a2eee-642b-4337-8e6a-f421ee5cad76": {
+      "ProjectGuid": "ac3a2eee-642b-4337-8e6a-f421ee5cad76",
+      "DisplayName": "P03.HouseParty",
+      "ColorIndex": 2
+    },
+    "c336a742-12d8-4200-8998-eb3d6c24b58d": {
+      "ProjectGuid": "c336a742-12d8-4200-8998-eb3d6c24b58d",
+      "DisplayName": "P04.ListOperations",
+      "ColorIndex": 3
+    },
+    "cb863f4c-d89f-458d-8179-d6a19a7577a0": {
+      "ProjectGuid": "cb863f4c-d89f-458d-8179-d6a19a7577a0",
+      "DisplayName": "P05.BombNumbers",
+      "ColorIndex": 4
+    },
+    "d18771ad-1b18-4313-afbb-2bb27648a6cb": {
+      "ProjectGuid": "d18771ad-1b18-4313-afbb-2bb27648a6cb",
+      "DisplayName": "P06.CardsGame",
+      "ColorIndex": 5
+    },
+    "f94153fd-9d21-42b6-98b7-671482e92027": {
+      "ProjectGuid": "f94153fd-9d21-42b6-98b7-671482e92027",
+      "DisplayName": "P07.AppendArrays",
+      "ColorIndex": 6
+    },
+    "60c50551-3dcb-4201-bbf7-f86975dbdafc": {
+      "ProjectGuid": "60c50551-3dcb-4201-bbf7-f86975dbdafc",
+      "DisplayName": "P08.AnonymousThreat",
+      "ColorIndex": 7
+    },
+    "d6c52c7c-3da1-4d2e-9560-a762834eccf9": {
+      "ProjectGuid": "d6c52c7c-3da1-4d2e-9560-a762834eccf9",
+      "DisplayName": "P09.PokemonDon'tGo",
+      "ColorIndex": 8
+    },
+    "3f37cb22-1eec-4952-ada8-251fd79235a5": {
+      "ProjectGuid": "3f37cb22-1eec-4952-ada8-251fd79235a5",
+      "DisplayName": "P10.SoftUniCoursePlanning",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

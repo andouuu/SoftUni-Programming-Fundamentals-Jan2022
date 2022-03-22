@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\ref\P07.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\bin\Debug\net5.0\P07.VehicleCatalogue.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\ref\P07.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P07.VehicleCatalogue\obj\Debug\net5.0\P07.VehicleCatalogue.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\P01.CountRealNumbers.exe
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\P01.CountRealNumbers.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\P01.CountRealNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\P01.CountRealNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\P01.CountRealNumbers.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\ref\P01.CountRealNumbers.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\bin\Debug\net5.0\P01.CountRealNumbers.pdb
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\ref\P01.CountRealNumbers.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.pdb
+E:\Programming Fundamentals C#\AssociativeArraysLab\P01.CountRealNumbers\obj\Debug\net5.0\P01.CountRealNumbers.genruntimeconfig.cache

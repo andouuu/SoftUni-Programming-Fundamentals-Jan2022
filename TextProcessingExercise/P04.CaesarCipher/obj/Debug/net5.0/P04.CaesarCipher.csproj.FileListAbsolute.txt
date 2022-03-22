@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\P04.CaesarCipher.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\P04.CaesarCipher.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\P04.CaesarCipher.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\P04.CaesarCipher.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\P04.CaesarCipher.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\ref\P04.CaesarCipher.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\bin\Debug\net5.0\P04.CaesarCipher.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\ref\P04.CaesarCipher.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P04.CaesarCipher\obj\Debug\net5.0\P04.CaesarCipher.genruntimeconfig.cache

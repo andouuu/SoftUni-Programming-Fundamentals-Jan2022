@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\P03.ExactSumOfRealNumbers.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\P03.ExactSumOfRealNumbers.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\P03.ExactSumOfRealNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\P03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\P03.ExactSumOfRealNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\ref\P03.ExactSumOfRealNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\bin\Debug\net5.0\P03.ExactSumOfRealNumbers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\ref\P03.ExactSumOfRealNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P03.ExactSumOfRealNumbers\obj\Debug\net5.0\P03.ExactSumOfRealNumbers.genruntimeconfig.cache

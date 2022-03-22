@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\ref\P05.PrintPartOfASCIITable.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\bin\Debug\net5.0\P05.PrintPartOfASCIITable.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\ref\P05.PrintPartOfASCIITable.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P05.PrintPartOfASCIITable\obj\Debug\net5.0\P05.PrintPartOfASCIITable.genruntimeconfig.cache

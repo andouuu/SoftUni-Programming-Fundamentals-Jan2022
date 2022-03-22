@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P13.DebugTheCodeHolidaysBetweenTwoDates/1.0.0": {
+        "runtime": {
+          "P13.DebugTheCodeHolidaysBetweenTwoDates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P13.DebugTheCodeHolidaysBetweenTwoDates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\P07.StringExplosion.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\P07.StringExplosion.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\P07.StringExplosion.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\P07.StringExplosion.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\P07.StringExplosion.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\ref\P07.StringExplosion.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\bin\Debug\net5.0\P07.StringExplosion.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\ref\P07.StringExplosion.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P07.StringExplosion\obj\Debug\net5.0\P07.StringExplosion.genruntimeconfig.cache

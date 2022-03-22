@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\P04.ReverseArrayOfStrings.exe
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\P04.ReverseArrayOfStrings.deps.json
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\P04.ReverseArrayOfStrings.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\P04.ReverseArrayOfStrings.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\P04.ReverseArrayOfStrings.dll
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\ref\P04.ReverseArrayOfStrings.dll
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\bin\Debug\net5.0\P04.ReverseArrayOfStrings.pdb
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.dll
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\ref\P04.ReverseArrayOfStrings.dll
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.pdb
+E:\Programming Fundamentals C#\ArraysLab\P04.ReverseArrayOfStrings\obj\Debug\net5.0\P04.ReverseArrayOfStrings.genruntimeconfig.cache

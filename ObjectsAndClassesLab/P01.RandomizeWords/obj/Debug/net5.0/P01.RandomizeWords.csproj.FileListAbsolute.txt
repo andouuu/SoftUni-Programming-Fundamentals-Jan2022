@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\ref\P01.RandomizeWords.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\bin\Debug\net5.0\P01.RandomizeWords.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\ref\P01.RandomizeWords.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P01.RandomizeWords\obj\Debug\net5.0\P01.RandomizeWords.genruntimeconfig.cache

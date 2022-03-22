@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3650cc5d-936c-4c42-9255-1c165ccc99af": {
+      "ProjectGuid": "3650cc5d-936c-4c42-9255-1c165ccc99af",
+      "DisplayName": "P01.SmallestOfThreeNumbers",
+      "ColorIndex": 0
+    },
+    "afd03a97-d54f-4739-8253-b0562227541c": {
+      "ProjectGuid": "afd03a97-d54f-4739-8253-b0562227541c",
+      "DisplayName": "P02.VowelsCount",
+      "ColorIndex": 1
+    },
+    "ed0b5bbf-c212-42fa-8719-5ecc5b6b4b3e": {
+      "ProjectGuid": "ed0b5bbf-c212-42fa-8719-5ecc5b6b4b3e",
+      "DisplayName": "P03.CharactersInRange",
+      "ColorIndex": 2
+    },
+    "da7b6077-ac23-43f4-8257-0f9a7d46210b": {
+      "ProjectGuid": "da7b6077-ac23-43f4-8257-0f9a7d46210b",
+      "DisplayName": "P04.PasswordValidator",
+      "ColorIndex": 3
+    },
+    "77155de7-d8b2-4562-addb-ffa19014ca37": {
+      "ProjectGuid": "77155de7-d8b2-4562-addb-ffa19014ca37",
+      "DisplayName": "P05.AddAndSubtract",
+      "ColorIndex": 4
+    },
+    "c2f6c119-b73e-42ec-8008-cb7890bf8f5a": {
+      "ProjectGuid": "c2f6c119-b73e-42ec-8008-cb7890bf8f5a",
+      "DisplayName": "P06.MiddleCharacters",
+      "ColorIndex": 5
+    },
+    "2996a385-3c4c-474f-b72a-703d1f899366": {
+      "ProjectGuid": "2996a385-3c4c-474f-b72a-703d1f899366",
+      "DisplayName": "P07.NxNMatrix",
+      "ColorIndex": 6
+    },
+    "e7ded6fe-d796-4f32-adb2-888ac9d75990": {
+      "ProjectGuid": "e7ded6fe-d796-4f32-adb2-888ac9d75990",
+      "DisplayName": "P08.FactorialDivision",
+      "ColorIndex": 7
+    },
+    "0c3850c7-1396-4130-a9fa-2eec82e7c2d4": {
+      "ProjectGuid": "0c3850c7-1396-4130-a9fa-2eec82e7c2d4",
+      "DisplayName": "P09.PalindromeIntegers",
+      "ColorIndex": 8
+    },
+    "672add86-e32c-43ba-a888-54e29cada8a9": {
+      "ProjectGuid": "672add86-e32c-43ba-a888-54e29cada8a9",
+      "DisplayName": "P10.TopNumber",
+      "ColorIndex": 9
+    },
+    "9fd7f0bb-9c17-4e15-af08-8382114ca823": {
+      "ProjectGuid": "9fd7f0bb-9c17-4e15-af08-8382114ca823",
+      "DisplayName": "P11.ArrayManipulator",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

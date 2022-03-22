@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\P01.ReverseStrings.exe
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\P01.ReverseStrings.deps.json
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\P01.ReverseStrings.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\P01.ReverseStrings.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\P01.ReverseStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\ref\P01.ReverseStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\bin\Debug\net5.0\P01.ReverseStrings.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\ref\P01.ReverseStrings.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P01.ReverseStrings\obj\Debug\net5.0\P01.ReverseStrings.genruntimeconfig.cache

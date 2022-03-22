@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\P03.Songs.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\P03.Songs.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\P03.Songs.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\P03.Songs.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\P03.Songs.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\ref\P03.Songs.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\bin\Debug\net5.0\P03.Songs.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\ref\P03.Songs.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P03.Songs\obj\Debug\net5.0\P03.Songs.genruntimeconfig.cache

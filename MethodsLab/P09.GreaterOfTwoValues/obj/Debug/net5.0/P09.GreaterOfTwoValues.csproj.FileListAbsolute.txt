@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.exe
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.deps.json
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.dll
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\ref\P09.GreaterOfTwoValues.dll
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\bin\Debug\net5.0\P09.GreaterOfTwoValues.pdb
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.dll
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\ref\P09.GreaterOfTwoValues.dll
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.pdb
+E:\Programming Fundamentals C#\MethodsLab\P09.GreaterOfTwoValues\obj\Debug\net5.0\P09.GreaterOfTwoValues.genruntimeconfig.cache

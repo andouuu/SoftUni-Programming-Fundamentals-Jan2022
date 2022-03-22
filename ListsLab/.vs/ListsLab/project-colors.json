@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6586b30-58fe-4075-8a17-8a0b80a39515": {
+      "ProjectGuid": "b6586b30-58fe-4075-8a17-8a0b80a39515",
+      "DisplayName": "P01.SumAdjacentEqualNumbers",
+      "ColorIndex": 0
+    },
+    "ecb7c203-a69f-49a3-a6c3-64cea3959113": {
+      "ProjectGuid": "ecb7c203-a69f-49a3-a6c3-64cea3959113",
+      "DisplayName": "P02.Gauss'Trick",
+      "ColorIndex": 1
+    },
+    "8d7799ea-0cba-409d-81b3-2201c4ec877e": {
+      "ProjectGuid": "8d7799ea-0cba-409d-81b3-2201c4ec877e",
+      "DisplayName": "P03.MergingLists",
+      "ColorIndex": 2
+    },
+    "d3558f3d-e8ea-4c3d-9cd1-c36dd148d300": {
+      "ProjectGuid": "d3558f3d-e8ea-4c3d-9cd1-c36dd148d300",
+      "DisplayName": "P04.ListOfProducts",
+      "ColorIndex": 3
+    },
+    "8d739c66-1a0e-44d4-a062-cf271cc6a9f5": {
+      "ProjectGuid": "8d739c66-1a0e-44d4-a062-cf271cc6a9f5",
+      "DisplayName": "P05.RemoveNegativesAndReverse",
+      "ColorIndex": 4
+    },
+    "7984594e-4696-423a-8975-f5deacf466d8": {
+      "ProjectGuid": "7984594e-4696-423a-8975-f5deacf466d8",
+      "DisplayName": "P06.ListManipulationBasics",
+      "ColorIndex": 5
+    },
+    "110b0d8f-96a4-47e5-b7f6-38355efea15f": {
+      "ProjectGuid": "110b0d8f-96a4-47e5-b7f6-38355efea15f",
+      "DisplayName": "P07.ListManipulationAdvanced",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "657f8f46-c417-48cd-b1bf-e4600e05e924": {
+      "ProjectGuid": "657f8f46-c417-48cd-b1bf-e4600e05e924",
+      "DisplayName": "P01.ValidUsernames",
+      "ColorIndex": 0
+    },
+    "ad5e49d3-3eb8-463b-bb3b-fa1f3ca837e7": {
+      "ProjectGuid": "ad5e49d3-3eb8-463b-bb3b-fa1f3ca837e7",
+      "DisplayName": "P02.CharacterMultiplier",
+      "ColorIndex": 1
+    },
+    "ff41e218-5223-407d-90b7-11e2c04bd7c1": {
+      "ProjectGuid": "ff41e218-5223-407d-90b7-11e2c04bd7c1",
+      "DisplayName": "P03.ExtractFile",
+      "ColorIndex": 2
+    },
+    "85423108-78f8-4b2a-a545-ee466051f2af": {
+      "ProjectGuid": "85423108-78f8-4b2a-a545-ee466051f2af",
+      "DisplayName": "P04.CaesarCipher",
+      "ColorIndex": 3
+    },
+    "9211ca61-6e79-438b-995f-ede25a16e021": {
+      "ProjectGuid": "9211ca61-6e79-438b-995f-ede25a16e021",
+      "DisplayName": "P05.MultiplyBigNumber",
+      "ColorIndex": 4
+    },
+    "bc4b1102-59c6-4033-9ce9-be03fb8f4161": {
+      "ProjectGuid": "bc4b1102-59c6-4033-9ce9-be03fb8f4161",
+      "DisplayName": "P06.ReplaceRepeatingChars",
+      "ColorIndex": 5
+    },
+    "e666ad1e-79fb-4014-baf9-0f8fe67abc11": {
+      "ProjectGuid": "e666ad1e-79fb-4014-baf9-0f8fe67abc11",
+      "DisplayName": "P07.StringExplosion",
+      "ColorIndex": 6
+    },
+    "a18bfaf8-ca26-4db0-aad8-fddb18a080eb": {
+      "ProjectGuid": "a18bfaf8-ca26-4db0-aad8-fddb18a080eb",
+      "DisplayName": "P08.LettersChangeNumbers✶",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

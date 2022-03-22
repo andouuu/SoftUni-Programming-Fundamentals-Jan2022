@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\P01.Train.exe
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\P01.Train.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\P01.Train.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\P01.Train.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\P01.Train.dll
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\ref\P01.Train.dll
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\bin\Debug\net5.0\P01.Train.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.dll
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\ref\P01.Train.dll
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P01.Train\obj\Debug\net5.0\P01.Train.genruntimeconfig.cache

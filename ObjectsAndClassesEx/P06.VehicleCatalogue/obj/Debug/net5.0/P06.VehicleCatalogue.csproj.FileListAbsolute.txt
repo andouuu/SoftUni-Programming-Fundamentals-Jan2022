@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\ref\P06.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\bin\Debug\net5.0\P06.VehicleCatalogue.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\ref\P06.VehicleCatalogue.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P06.VehicleCatalogue\obj\Debug\net5.0\P06.VehicleCatalogue.genruntimeconfig.cache

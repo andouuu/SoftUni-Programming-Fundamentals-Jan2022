@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\P04.Students.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\P04.Students.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\P04.Students.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\P04.Students.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\P04.Students.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\ref\P04.Students.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\bin\Debug\net5.0\P04.Students.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\ref\P04.Students.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P04.Students\obj\Debug\net5.0\P04.Students.genruntimeconfig.cache

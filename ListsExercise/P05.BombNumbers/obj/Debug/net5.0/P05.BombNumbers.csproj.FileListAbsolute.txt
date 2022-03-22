@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.exe
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.deps.json
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.dll
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\ref\P05.BombNumbers.dll
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\bin\Debug\net5.0\P05.BombNumbers.pdb
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.dll
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\ref\P05.BombNumbers.dll
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.pdb
+E:\Programming Fundamentals C#\ListsExercise\P05.BombNumbers\obj\Debug\net5.0\P05.BombNumbers.genruntimeconfig.cache

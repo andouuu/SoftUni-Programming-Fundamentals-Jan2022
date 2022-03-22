@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\ref\P09.SpiceMustFlow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\bin\Debug\net5.0\P09.SpiceMustFlow.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\ref\P09.SpiceMustFlow.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P09.SpiceMustFlow\obj\Debug\net5.0\P09.SpiceMustFlow.genruntimeconfig.cache

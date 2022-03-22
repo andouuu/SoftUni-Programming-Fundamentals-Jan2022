@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\P04.TextFilter.exe
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\P04.TextFilter.deps.json
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\P04.TextFilter.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\P04.TextFilter.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\P04.TextFilter.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\ref\P04.TextFilter.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\bin\Debug\net5.0\P04.TextFilter.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\ref\P04.TextFilter.dll
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.pdb
+E:\Programming Fundamentals C#\TextProcessingLab\P04.TextFilter\obj\Debug\net5.0\P04.TextFilter.genruntimeconfig.cache

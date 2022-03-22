@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\ref\P11.Snowballs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\bin\Debug\net5.0\P11.Snowballs.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\ref\P11.Snowballs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P11.Snowballs\obj\Debug\net5.0\P11.Snowballs.genruntimeconfig.cache

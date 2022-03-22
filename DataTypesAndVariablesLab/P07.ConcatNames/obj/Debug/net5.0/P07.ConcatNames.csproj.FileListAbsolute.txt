@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\ref\P07.ConcatNames.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\bin\Debug\net5.0\P07.ConcatNames.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\ref\P07.ConcatNames.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P07.ConcatNames\obj\Debug\net5.0\P07.ConcatNames.genruntimeconfig.cache

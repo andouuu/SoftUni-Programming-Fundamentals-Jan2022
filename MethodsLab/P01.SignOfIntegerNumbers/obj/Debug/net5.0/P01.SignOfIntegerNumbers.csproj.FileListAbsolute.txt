@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.exe
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.deps.json
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.dll
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\ref\P01.SignOfIntegerNumbers.dll
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\bin\Debug\net5.0\P01.SignOfIntegerNumbers.pdb
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.dll
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\ref\P01.SignOfIntegerNumbers.dll
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.pdb
+E:\Programming Fundamentals C#\MethodsLab\P01.SignOfIntegerNumbers\obj\Debug\net5.0\P01.SignOfIntegerNumbers.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P05.AddAndSubtract/1.0.0": {
+        "runtime": {
+          "P05.AddAndSubtract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P05.AddAndSubtract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\ref\P10.PokeMon.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\bin\Debug\net5.0\P10.PokeMon.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\ref\P10.PokeMon.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.genruntimeconfig.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P10.PokeMon\obj\Debug\net5.0\P10.PokeMon.csproj.AssemblyReference.cache

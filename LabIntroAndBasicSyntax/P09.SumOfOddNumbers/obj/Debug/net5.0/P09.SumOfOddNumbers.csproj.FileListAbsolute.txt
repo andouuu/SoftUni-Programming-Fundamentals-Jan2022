@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\P09.SumOfOddNumbers.exe
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\P09.SumOfOddNumbers.deps.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\P09.SumOfOddNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\P09.SumOfOddNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\P09.SumOfOddNumbers.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\ref\P09.SumOfOddNumbers.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\bin\Debug\net5.0\P09.SumOfOddNumbers.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\ref\P09.SumOfOddNumbers.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P09.SumOfOddNumbers\obj\Debug\net5.0\P09.SumOfOddNumbers.genruntimeconfig.cache

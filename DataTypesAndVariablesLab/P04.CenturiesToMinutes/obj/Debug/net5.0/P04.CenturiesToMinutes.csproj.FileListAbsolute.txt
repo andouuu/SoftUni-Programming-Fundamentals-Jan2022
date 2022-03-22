@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\ref\P04.CenturiesToMinutes.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\bin\Debug\net5.0\P04.CenturiesToMinutes.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\ref\P04.CenturiesToMinutes.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P04.CenturiesToMinutes\obj\Debug\net5.0\P04.CenturiesToMinutes.genruntimeconfig.cache

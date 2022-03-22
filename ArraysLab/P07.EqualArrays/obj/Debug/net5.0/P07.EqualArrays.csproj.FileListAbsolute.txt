@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\P07.EqualArrays.exe
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\P07.EqualArrays.deps.json
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\P07.EqualArrays.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\P07.EqualArrays.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\P07.EqualArrays.dll
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\ref\P07.EqualArrays.dll
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\bin\Debug\net5.0\P07.EqualArrays.pdb
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.dll
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\ref\P07.EqualArrays.dll
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.pdb
+E:\Programming Fundamentals C#\ArraysLab\P07.EqualArrays\obj\Debug\net5.0\P07.EqualArrays.genruntimeconfig.cache

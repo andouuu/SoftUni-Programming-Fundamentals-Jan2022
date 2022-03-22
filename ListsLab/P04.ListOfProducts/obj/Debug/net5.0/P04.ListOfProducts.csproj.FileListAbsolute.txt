@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.exe
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.deps.json
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.dll
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\ref\P04.ListOfProducts.dll
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\bin\Debug\net5.0\P04.ListOfProducts.pdb
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.dll
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\ref\P04.ListOfProducts.dll
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.pdb
+E:\Programming Fundamentals C#\ListsLab\P04.ListOfProducts\obj\Debug\net5.0\P04.ListOfProducts.genruntimeconfig.cache

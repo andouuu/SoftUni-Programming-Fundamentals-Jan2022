@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\ref\P10.RageExpenses.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\bin\Debug\net5.0\P10.RageExpenses.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\ref\P10.RageExpenses.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P10.RageExpenses\obj\Debug\net5.0\P10.RageExpenses.genruntimeconfig.cache

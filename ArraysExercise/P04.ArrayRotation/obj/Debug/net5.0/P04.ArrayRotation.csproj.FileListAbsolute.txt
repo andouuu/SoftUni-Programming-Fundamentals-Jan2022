@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.exe
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.dll
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\ref\P04.ArrayRotation.dll
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\bin\Debug\net5.0\P04.ArrayRotation.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.dll
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\ref\P04.ArrayRotation.dll
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P04.ArrayRotation\obj\Debug\net5.0\P04.ArrayRotation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\ref\P06.ReversedChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\bin\Debug\net5.0\P06.ReversedChars.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\ref\P06.ReversedChars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P06.ReversedChars\obj\Debug\net5.0\P06.ReversedChars.genruntimeconfig.cache

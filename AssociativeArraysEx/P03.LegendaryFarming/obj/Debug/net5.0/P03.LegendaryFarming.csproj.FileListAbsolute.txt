@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\P03.LegendaryFarming.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\P03.LegendaryFarming.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\P03.LegendaryFarming.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\P03.LegendaryFarming.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\P03.LegendaryFarming.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\ref\P03.LegendaryFarming.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\bin\Debug\net5.0\P03.LegendaryFarming.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\ref\P03.LegendaryFarming.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P03.LegendaryFarming\obj\Debug\net5.0\P03.LegendaryFarming.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\P07.VendingMashine.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\P07.VendingMashine.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\P07.VendingMashine.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\P07.VendingMashine.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\P07.VendingMashine.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\ref\P07.VendingMashine.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\bin\Debug\net5.0\P07.VendingMashine.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\ref\P07.VendingMashine.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P07.VendingMashine\obj\Debug\net5.0\P07.VendingMashine.genruntimeconfig.cache

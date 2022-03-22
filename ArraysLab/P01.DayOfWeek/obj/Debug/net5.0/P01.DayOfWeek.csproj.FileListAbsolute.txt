@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\P01.DayOfWeek.exe
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\P01.DayOfWeek.deps.json
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\P01.DayOfWeek.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\P01.DayOfWeek.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\P01.DayOfWeek.dll
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\ref\P01.DayOfWeek.dll
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\bin\Debug\net5.0\P01.DayOfWeek.pdb
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.dll
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\ref\P01.DayOfWeek.dll
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.pdb
+E:\Programming Fundamentals C#\ArraysLab\P01.DayOfWeek\obj\Debug\net5.0\P01.DayOfWeek.genruntimeconfig.cache

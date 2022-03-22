@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\P05.SoftUniParking.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\P05.SoftUniParking.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\P05.SoftUniParking.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\P05.SoftUniParking.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\P05.SoftUniParking.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\ref\P05.SoftUniParking.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\bin\Debug\net5.0\P05.SoftUniParking.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\ref\P05.SoftUniParking.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P05.SoftUniParking\obj\Debug\net5.0\P05.SoftUniParking.genruntimeconfig.cache

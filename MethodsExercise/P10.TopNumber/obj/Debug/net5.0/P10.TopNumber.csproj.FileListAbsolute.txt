@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\P10.TopNumber.exe
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\P10.TopNumber.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\P10.TopNumber.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\P10.TopNumber.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\P10.TopNumber.dll
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\ref\P10.TopNumber.dll
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\bin\Debug\net5.0\P10.TopNumber.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.dll
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\ref\P10.TopNumber.dll
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P10.TopNumber\obj\Debug\net5.0\P10.TopNumber.genruntimeconfig.cache

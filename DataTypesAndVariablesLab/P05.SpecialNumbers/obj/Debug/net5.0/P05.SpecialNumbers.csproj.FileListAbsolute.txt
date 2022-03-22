@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\ref\P05.SpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\bin\Debug\net5.0\P05.SpecialNumbers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\ref\P05.SpecialNumbers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P05.SpecialNumbers\obj\Debug\net5.0\P05.SpecialNumbers.genruntimeconfig.cache

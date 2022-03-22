@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.exe
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.deps.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.runtimeconfig.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\ref\P10.MultiplicationTable.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\bin\Debug\net5.0\P10.MultiplicationTable.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.AssemblyInfo.cs
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\ref\P10.MultiplicationTable.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P10.MultiplicationTable\obj\Debug\net5.0\P10.MultiplicationTable.genruntimeconfig.cache

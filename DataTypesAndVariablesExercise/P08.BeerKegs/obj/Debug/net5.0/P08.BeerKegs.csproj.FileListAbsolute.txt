@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\ref\P08.BeerKegs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\bin\Debug\net5.0\P08.BeerKegs.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\ref\P08.BeerKegs.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P08.BeerKegs\obj\Debug\net5.0\P08.BeerKegs.genruntimeconfig.cache

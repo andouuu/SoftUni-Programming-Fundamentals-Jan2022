@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\P09.PalindromeIntegers.exe
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\P09.PalindromeIntegers.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\P09.PalindromeIntegers.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\P09.PalindromeIntegers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\P09.PalindromeIntegers.dll
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\ref\P09.PalindromeIntegers.dll
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\bin\Debug\net5.0\P09.PalindromeIntegers.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.dll
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\ref\P09.PalindromeIntegers.dll
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P09.PalindromeIntegers\obj\Debug\net5.0\P09.PalindromeIntegers.genruntimeconfig.cache

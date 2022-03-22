@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.exe
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\ref\P08.MagicSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\bin\Debug\net5.0\P08.MagicSum.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\ref\P08.MagicSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P08.MagicSum\obj\Debug\net5.0\P08.MagicSum.genruntimeconfig.cache

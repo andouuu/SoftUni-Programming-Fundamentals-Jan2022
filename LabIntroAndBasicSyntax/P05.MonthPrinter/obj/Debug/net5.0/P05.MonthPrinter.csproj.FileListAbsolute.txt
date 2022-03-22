@@ -1,0 +1,5 @@
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.AssemblyInfo.cs
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P05.MonthPrinter\obj\Debug\net5.0\P05.MonthPrinter.csproj.CoreCompileInputs.cache

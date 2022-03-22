@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "235cbcff-2274-4888-8b03-0d0559703e4f": {
+      "ProjectGuid": "235cbcff-2274-4888-8b03-0d0559703e4f",
+      "DisplayName": "P01.RandomizeWords",
+      "ColorIndex": 0
+    },
+    "c368beb7-7dac-4355-9d36-8f5c62fef068": {
+      "ProjectGuid": "c368beb7-7dac-4355-9d36-8f5c62fef068",
+      "DisplayName": "P02.BigFactorial",
+      "ColorIndex": 1
+    },
+    "ea8dc3cb-6e68-4492-8bad-000c9a8f5a6a": {
+      "ProjectGuid": "ea8dc3cb-6e68-4492-8bad-000c9a8f5a6a",
+      "DisplayName": "P03.Songs",
+      "ColorIndex": 2
+    },
+    "e5337e7a-fa04-4855-9671-087d6d3c5e69": {
+      "ProjectGuid": "e5337e7a-fa04-4855-9671-087d6d3c5e69",
+      "DisplayName": "P04.Students",
+      "ColorIndex": 3
+    },
+    "6d78a22c-4152-40c4-8d0b-3697e5a907ee": {
+      "ProjectGuid": "6d78a22c-4152-40c4-8d0b-3697e5a907ee",
+      "DisplayName": "P05.Students2.0",
+      "ColorIndex": 4
+    },
+    "50bf40f7-07d8-4d21-8fb4-ff09b48ca596": {
+      "ProjectGuid": "50bf40f7-07d8-4d21-8fb4-ff09b48ca596",
+      "DisplayName": "P06.StoreBoxes",
+      "ColorIndex": 5
+    },
+    "1878c0d0-5931-46a5-95df-7142c815beea": {
+      "ProjectGuid": "1878c0d0-5931-46a5-95df-7142c815beea",
+      "DisplayName": "P07.VehicleCatalogue",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\P03.MergingLists.exe
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\P03.MergingLists.deps.json
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\P03.MergingLists.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\P03.MergingLists.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\P03.MergingLists.dll
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\ref\P03.MergingLists.dll
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\bin\Debug\net5.0\P03.MergingLists.pdb
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.dll
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\ref\P03.MergingLists.dll
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.pdb
+E:\Programming Fundamentals C#\ListsLab\P03.MergingLists\obj\Debug\net5.0\P03.MergingLists.genruntimeconfig.cache

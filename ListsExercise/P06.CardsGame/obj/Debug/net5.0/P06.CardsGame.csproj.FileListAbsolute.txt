@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\P06.CardsGame.exe
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\P06.CardsGame.deps.json
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\P06.CardsGame.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\P06.CardsGame.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\P06.CardsGame.dll
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\ref\P06.CardsGame.dll
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\bin\Debug\net5.0\P06.CardsGame.pdb
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.dll
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\ref\P06.CardsGame.dll
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.pdb
+E:\Programming Fundamentals C#\ListsExercise\P06.CardsGame\obj\Debug\net5.0\P06.CardsGame.genruntimeconfig.cache

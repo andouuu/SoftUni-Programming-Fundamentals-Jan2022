@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\P03.WordSynonyms.exe
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\P03.WordSynonyms.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\P03.WordSynonyms.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\P03.WordSynonyms.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\P03.WordSynonyms.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\ref\P03.WordSynonyms.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\bin\Debug\net5.0\P03.WordSynonyms.pdb
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\ref\P03.WordSynonyms.dll
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.pdb
+E:\Programming Fundamentals C#\AssociativeArraysLab\P03.WordSynonyms\obj\Debug\net5.0\P03.WordSynonyms.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.exe
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.dll
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\ref\P08.FactorialDivision.dll
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\bin\Debug\net5.0\P08.FactorialDivision.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.dll
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\ref\P08.FactorialDivision.dll
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P08.FactorialDivision\obj\Debug\net5.0\P08.FactorialDivision.genruntimeconfig.cache

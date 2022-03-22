@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.exe
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\ref\P02.CommonElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\bin\Debug\net5.0\P02.CommonElements.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\ref\P02.CommonElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P02.CommonElements\obj\Debug\net5.0\P02.CommonElements.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.exe
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.deps.json
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.dll
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\ref\P10.MultiplyEvensByOdds.dll
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\bin\Debug\net5.0\P10.MultiplyEvensByOdds.pdb
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.dll
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\ref\P10.MultiplyEvensByOdds.dll
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.pdb
+E:\Programming Fundamentals C#\MethodsLab\P10.MultiplyEvensByOdds\obj\Debug\net5.0\P10.MultiplyEvensByOdds.genruntimeconfig.cache

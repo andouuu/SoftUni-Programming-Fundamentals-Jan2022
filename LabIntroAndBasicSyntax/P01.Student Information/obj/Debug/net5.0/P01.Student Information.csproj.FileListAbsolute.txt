@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\P01.Student Information.exe
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\P01.Student Information.deps.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\P01.Student Information.runtimeconfig.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\P01.Student Information.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\P01.Student Information.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\ref\P01.Student Information.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\bin\Debug\net5.0\P01.Student Information.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.AssemblyInfo.cs
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\ref\P01.Student Information.dll
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.pdb
+E:\Programming Fundamentals C#\LabIntroAndBasicSyntax\P01.Student Information\obj\Debug\net5.0\P01.Student Information.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\ref\P01.AdvertisementMessage.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\bin\Debug\net5.0\P01.AdvertisementMessage.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\ref\P01.AdvertisementMessage.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P01.AdvertisementMessage\obj\Debug\net5.0\P01.AdvertisementMessage.genruntimeconfig.cache

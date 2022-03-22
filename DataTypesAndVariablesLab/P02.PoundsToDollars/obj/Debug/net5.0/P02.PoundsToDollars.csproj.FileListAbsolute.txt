@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\ref\P02.PoundsToDollars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\bin\Debug\net5.0\P02.PoundsToDollars.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\ref\P02.PoundsToDollars.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P02.PoundsToDollars\obj\Debug\net5.0\P02.PoundsToDollars.genruntimeconfig.cache

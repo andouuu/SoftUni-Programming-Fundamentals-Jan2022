@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\P05.AddAndSubtract.exe
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\P05.AddAndSubtract.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\P05.AddAndSubtract.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\P05.AddAndSubtract.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\P05.AddAndSubtract.dll
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\ref\P05.AddAndSubtract.dll
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\bin\Debug\net5.0\P05.AddAndSubtract.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.dll
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\ref\P05.AddAndSubtract.dll
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P05.AddAndSubtract\obj\Debug\net5.0\P05.AddAndSubtract.genruntimeconfig.cache

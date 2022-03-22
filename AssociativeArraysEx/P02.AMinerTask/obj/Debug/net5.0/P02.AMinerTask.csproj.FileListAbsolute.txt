@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\P02.AMinerTask.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\P02.AMinerTask.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\P02.AMinerTask.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\P02.AMinerTask.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\P02.AMinerTask.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\ref\P02.AMinerTask.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\bin\Debug\net5.0\P02.AMinerTask.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\ref\P02.AMinerTask.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P02.AMinerTask\obj\Debug\net5.0\P02.AMinerTask.genruntimeconfig.cache

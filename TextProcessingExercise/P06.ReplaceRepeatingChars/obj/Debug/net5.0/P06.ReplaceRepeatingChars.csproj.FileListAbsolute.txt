@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\P06.ReplaceRepeatingChars.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\P06.ReplaceRepeatingChars.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\P06.ReplaceRepeatingChars.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\P06.ReplaceRepeatingChars.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\P06.ReplaceRepeatingChars.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\ref\P06.ReplaceRepeatingChars.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\bin\Debug\net5.0\P06.ReplaceRepeatingChars.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\ref\P06.ReplaceRepeatingChars.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P06.ReplaceRepeatingChars\obj\Debug\net5.0\P06.ReplaceRepeatingChars.genruntimeconfig.cache

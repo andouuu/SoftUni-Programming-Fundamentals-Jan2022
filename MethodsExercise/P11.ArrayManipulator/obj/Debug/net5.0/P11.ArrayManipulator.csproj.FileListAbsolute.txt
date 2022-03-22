@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\P11.ArrayManipulator.exe
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\P11.ArrayManipulator.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\P11.ArrayManipulator.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\P11.ArrayManipulator.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\P11.ArrayManipulator.dll
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\ref\P11.ArrayManipulator.dll
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\bin\Debug\net5.0\P11.ArrayManipulator.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.dll
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\ref\P11.ArrayManipulator.dll
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P11.ArrayManipulator\obj\Debug\net5.0\P11.ArrayManipulator.genruntimeconfig.cache

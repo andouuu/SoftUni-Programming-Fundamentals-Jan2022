@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.exe
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\P07.MaxSequenceOfEqualElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\bin\Debug\net5.0\P07.MaxSequenceOfEqualElements.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\P07.MaxSequenceOfEqualElements.dll
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P07.MaxSequenceOfEqualElements\obj\Debug\net5.0\P07.MaxSequenceOfEqualElements.genruntimeconfig.cache

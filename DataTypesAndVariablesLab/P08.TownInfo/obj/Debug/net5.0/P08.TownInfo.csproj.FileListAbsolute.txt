@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\P08.TownInfo.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\P08.TownInfo.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\P08.TownInfo.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\P08.TownInfo.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\P08.TownInfo.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\ref\P08.TownInfo.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\bin\Debug\net5.0\P08.TownInfo.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\ref\P08.TownInfo.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P08.TownInfo\obj\Debug\net5.0\P08.TownInfo.genruntimeconfig.cache

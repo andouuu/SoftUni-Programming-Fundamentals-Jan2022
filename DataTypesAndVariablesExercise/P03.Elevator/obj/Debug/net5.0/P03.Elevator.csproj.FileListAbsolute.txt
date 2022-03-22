@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\P03.Elevator.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\P03.Elevator.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\P03.Elevator.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\P03.Elevator.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\P03.Elevator.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\ref\P03.Elevator.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\bin\Debug\net5.0\P03.Elevator.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\ref\P03.Elevator.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P03.Elevator\obj\Debug\net5.0\P03.Elevator.genruntimeconfig.cache

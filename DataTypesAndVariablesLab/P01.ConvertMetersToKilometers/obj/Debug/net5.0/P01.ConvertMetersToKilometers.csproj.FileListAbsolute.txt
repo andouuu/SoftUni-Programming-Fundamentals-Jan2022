@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\P01.ConvertMetersToKilometers.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\P01.ConvertMetersToKilometers.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\P01.ConvertMetersToKilometers.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\P01.ConvertMetersToKilometers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\P01.ConvertMetersToKilometers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\ref\P01.ConvertMetersToKilometers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\bin\Debug\net5.0\P01.ConvertMetersToKilometers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\ref\P01.ConvertMetersToKilometers.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P01.ConvertMetersToKilometers\obj\Debug\net5.0\P01.ConvertMetersToKilometers.genruntimeconfig.cache

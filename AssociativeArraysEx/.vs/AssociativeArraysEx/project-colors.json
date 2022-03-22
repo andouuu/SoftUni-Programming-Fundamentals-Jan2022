@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4301f70-61b2-4b8a-a67a-42ac16685281": {
+      "ProjectGuid": "b4301f70-61b2-4b8a-a67a-42ac16685281",
+      "DisplayName": "P08.CompanyUsers",
+      "ColorIndex": 0
+    },
+    "24e02c54-e6f8-4a90-abfe-d530351e3068": {
+      "ProjectGuid": "24e02c54-e6f8-4a90-abfe-d530351e3068",
+      "DisplayName": "P07.StudentAcademy",
+      "ColorIndex": 1
+    },
+    "b8ccdcf9-73cf-42f3-ae27-0246c0134bb3": {
+      "ProjectGuid": "b8ccdcf9-73cf-42f3-ae27-0246c0134bb3",
+      "DisplayName": "P06.Courses",
+      "ColorIndex": 2
+    },
+    "81131f6a-5986-4b52-8c94-c48ab6634023": {
+      "ProjectGuid": "81131f6a-5986-4b52-8c94-c48ab6634023",
+      "DisplayName": "P05.SoftUniParking",
+      "ColorIndex": 3
+    },
+    "7b6cd853-2296-45a5-8104-bef089a8e0b4": {
+      "ProjectGuid": "7b6cd853-2296-45a5-8104-bef089a8e0b4",
+      "DisplayName": "P04.Orders",
+      "ColorIndex": 4
+    },
+    "41451ae2-59fd-44db-9c95-c847becba4e7": {
+      "ProjectGuid": "41451ae2-59fd-44db-9c95-c847becba4e7",
+      "DisplayName": "P03.LegendaryFarming",
+      "ColorIndex": 5
+    },
+    "bde7055d-531b-43c9-bb68-1f9b4ea2181b": {
+      "ProjectGuid": "bde7055d-531b-43c9-bb68-1f9b4ea2181b",
+      "DisplayName": "P02.AMinerTask",
+      "ColorIndex": 6
+    },
+    "cd44378f-9581-46dd-ba5f-425e7d1ff8dd": {
+      "ProjectGuid": "cd44378f-9581-46dd-ba5f-425e7d1ff8dd",
+      "DisplayName": "P01.CountCharsInAString",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

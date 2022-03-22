@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\P02.CharacterMultiplier.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\P02.CharacterMultiplier.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\P02.CharacterMultiplier.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\P02.CharacterMultiplier.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\P02.CharacterMultiplier.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\ref\P02.CharacterMultiplier.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\bin\Debug\net5.0\P02.CharacterMultiplier.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\ref\P02.CharacterMultiplier.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P02.CharacterMultiplier\obj\Debug\net5.0\P02.CharacterMultiplier.genruntimeconfig.cache

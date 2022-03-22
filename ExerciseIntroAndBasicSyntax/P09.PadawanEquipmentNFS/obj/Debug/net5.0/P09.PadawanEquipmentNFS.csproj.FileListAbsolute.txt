@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\P09.PadawanEquipmentNFS.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\P09.PadawanEquipmentNFS.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\P09.PadawanEquipmentNFS.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\P09.PadawanEquipmentNFS.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\P09.PadawanEquipmentNFS.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\ref\P09.PadawanEquipmentNFS.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\bin\Debug\net5.0\P09.PadawanEquipmentNFS.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\ref\P09.PadawanEquipmentNFS.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P09.PadawanEquipmentNFS\obj\Debug\net5.0\P09.PadawanEquipmentNFS.genruntimeconfig.cache

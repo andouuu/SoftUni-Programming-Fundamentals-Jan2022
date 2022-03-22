@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.exe
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.deps.json
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.dll
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\ref\P07.RepeatString.dll
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\bin\Debug\net5.0\P07.RepeatString.pdb
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.dll
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\ref\P07.RepeatString.dll
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.pdb
+E:\Programming Fundamentals C#\MethodsLab\P07.RepeatString\obj\Debug\net5.0\P07.RepeatString.genruntimeconfig.cache

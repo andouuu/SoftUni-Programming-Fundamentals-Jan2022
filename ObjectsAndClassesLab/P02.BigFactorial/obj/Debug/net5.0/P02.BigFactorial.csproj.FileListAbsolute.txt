@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\P02.BigFactorial.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\P02.BigFactorial.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\P02.BigFactorial.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\P02.BigFactorial.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\P02.BigFactorial.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\ref\P02.BigFactorial.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\bin\Debug\net5.0\P02.BigFactorial.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\ref\P02.BigFactorial.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P02.BigFactorial\obj\Debug\net5.0\P02.BigFactorial.genruntimeconfig.cache

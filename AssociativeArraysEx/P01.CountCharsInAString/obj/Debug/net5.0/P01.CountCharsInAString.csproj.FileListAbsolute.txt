@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\P01.CountCharsInAString.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\P01.CountCharsInAString.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\P01.CountCharsInAString.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\P01.CountCharsInAString.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\P01.CountCharsInAString.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\ref\P01.CountCharsInAString.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\bin\Debug\net5.0\P01.CountCharsInAString.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\ref\P01.CountCharsInAString.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P01.CountCharsInAString\obj\Debug\net5.0\P01.CountCharsInAString.genruntimeconfig.cache

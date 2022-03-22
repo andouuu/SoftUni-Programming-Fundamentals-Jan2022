@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.exe
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.deps.json
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.runtimeconfig.json
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.dll
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\ref\P06.MiddleCharacters.dll
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\bin\Debug\net5.0\P06.MiddleCharacters.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.AssemblyInfo.cs
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.dll
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\ref\P06.MiddleCharacters.dll
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.pdb
+E:\Programming Fundamentals C#\MethodsExercise\P06.MiddleCharacters\obj\Debug\net5.0\P06.MiddleCharacters.genruntimeconfig.cache

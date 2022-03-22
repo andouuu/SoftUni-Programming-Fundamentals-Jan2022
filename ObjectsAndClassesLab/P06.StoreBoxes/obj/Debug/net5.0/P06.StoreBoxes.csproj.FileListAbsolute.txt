@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\ref\P06.StoreBoxes.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\bin\Debug\net5.0\P06.StoreBoxes.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\ref\P06.StoreBoxes.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesLab\P06.StoreBoxes\obj\Debug\net5.0\P06.StoreBoxes.genruntimeconfig.cache

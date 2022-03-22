@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.exe
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.deps.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.runtimeconfig.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\ref\P07.OrderByAge.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\bin\Debug\net5.0\P07.OrderByAge.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\ref\P07.OrderByAge.dll
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.pdb
+E:\Programming Fundamentals C#\ObjectsAndClassesEx\P07.OrderByAge\obj\Debug\net5.0\P07.OrderByAge.genruntimeconfig.cache

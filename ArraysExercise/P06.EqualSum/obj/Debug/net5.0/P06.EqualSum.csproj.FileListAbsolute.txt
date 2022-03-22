@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\P06.EqualSum.exe
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\P06.EqualSum.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\P06.EqualSum.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\P06.EqualSum.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\P06.EqualSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\ref\P06.EqualSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\bin\Debug\net5.0\P06.EqualSum.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\ref\P06.EqualSum.dll
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P06.EqualSum\obj\Debug\net5.0\P06.EqualSum.genruntimeconfig.cache

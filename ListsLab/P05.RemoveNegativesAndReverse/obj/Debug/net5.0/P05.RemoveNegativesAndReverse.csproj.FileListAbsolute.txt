@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.exe
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.deps.json
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.dll
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\ref\P05.RemoveNegativesAndReverse.dll
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\bin\Debug\net5.0\P05.RemoveNegativesAndReverse.pdb
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.dll
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\ref\P05.RemoveNegativesAndReverse.dll
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.pdb
+E:\Programming Fundamentals C#\ListsLab\P05.RemoveNegativesAndReverse\obj\Debug\net5.0\P05.RemoveNegativesAndReverse.genruntimeconfig.cache

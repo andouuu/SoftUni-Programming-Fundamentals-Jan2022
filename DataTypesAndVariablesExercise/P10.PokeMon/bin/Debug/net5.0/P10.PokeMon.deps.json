@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P10.PokeMon/1.0.0": {
+        "runtime": {
+          "P10.PokeMon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P10.PokeMon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\P04.PrintAndSum.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\P04.PrintAndSum.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\P04.PrintAndSum.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\P04.PrintAndSum.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\P04.PrintAndSum.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\ref\P04.PrintAndSum.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\bin\Debug\net5.0\P04.PrintAndSum.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\ref\P04.PrintAndSum.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P04.PrintAndSum\obj\Debug\net5.0\P04.PrintAndSum.genruntimeconfig.cache

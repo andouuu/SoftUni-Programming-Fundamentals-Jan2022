@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.exe
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.deps.json
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.dll
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\ref\P04.ListOperations.dll
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\bin\Debug\net5.0\P04.ListOperations.pdb
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.dll
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\ref\P04.ListOperations.dll
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.pdb
+E:\Programming Fundamentals C#\ListsExercise\P04.ListOperations\obj\Debug\net5.0\P04.ListOperations.genruntimeconfig.cache

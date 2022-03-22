@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\ref\P02.SumDigits.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\bin\Debug\net5.0\P02.SumDigits.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\ref\P02.SumDigits.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesExercise\P02.SumDigits\obj\Debug\net5.0\P02.SumDigits.genruntimeconfig.cache

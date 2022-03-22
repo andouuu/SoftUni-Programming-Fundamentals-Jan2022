@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\P08.CondenseArrayToNumber.exe
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\P08.CondenseArrayToNumber.deps.json
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\P08.CondenseArrayToNumber.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\P08.CondenseArrayToNumber.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\P08.CondenseArrayToNumber.dll
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\ref\P08.CondenseArrayToNumber.dll
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\bin\Debug\net5.0\P08.CondenseArrayToNumber.pdb
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.dll
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\ref\P08.CondenseArrayToNumber.dll
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.pdb
+E:\Programming Fundamentals C#\ArraysLab\P08.CondenseArrayToNumber\obj\Debug\net5.0\P08.CondenseArrayToNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\P03.ExtractFile.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\P03.ExtractFile.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\P03.ExtractFile.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\P03.ExtractFile.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\P03.ExtractFile.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\ref\P03.ExtractFile.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\bin\Debug\net5.0\P03.ExtractFile.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\ref\P03.ExtractFile.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P03.ExtractFile\obj\Debug\net5.0\P03.ExtractFile.genruntimeconfig.cache

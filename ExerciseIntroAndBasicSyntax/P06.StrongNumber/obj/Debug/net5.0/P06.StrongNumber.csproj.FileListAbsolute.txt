@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\ref\P06.StrongNumber.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\bin\Debug\net5.0\P06.StrongNumber.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\ref\P06.StrongNumber.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P06.StrongNumber\obj\Debug\net5.0\P06.StrongNumber.genruntimeconfig.cache

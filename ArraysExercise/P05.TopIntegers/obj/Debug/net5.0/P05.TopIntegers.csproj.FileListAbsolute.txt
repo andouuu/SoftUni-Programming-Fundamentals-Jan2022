@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.exe
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.deps.json
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.runtimeconfig.json
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.dll
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\ref\P05.TopIntegers.dll
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\bin\Debug\net5.0\P05.TopIntegers.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.dll
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\ref\P05.TopIntegers.dll
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.pdb
+E:\Programming Fundamentals C#\ArraysExercise\P05.TopIntegers\obj\Debug\net5.0\P05.TopIntegers.genruntimeconfig.cache

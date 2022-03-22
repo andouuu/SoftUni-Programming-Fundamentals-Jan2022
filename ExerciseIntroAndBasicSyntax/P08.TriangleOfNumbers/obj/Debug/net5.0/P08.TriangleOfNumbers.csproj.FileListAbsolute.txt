@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.exe
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.deps.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.runtimeconfig.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\ref\P08.TriangleOfNumbers.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\bin\Debug\net5.0\P08.TriangleOfNumbers.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\ref\P08.TriangleOfNumbers.dll
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.pdb
+E:\Programming Fundamentals C#\ExerciseIntroAndBasicSyntax\P08.TriangleOfNumbers\obj\Debug\net5.0\P08.TriangleOfNumbers.genruntimeconfig.cache

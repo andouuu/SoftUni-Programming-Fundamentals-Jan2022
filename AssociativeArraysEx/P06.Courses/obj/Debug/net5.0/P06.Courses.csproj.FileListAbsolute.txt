@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\P06.Courses.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\P06.Courses.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\P06.Courses.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\P06.Courses.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\P06.Courses.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\ref\P06.Courses.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\bin\Debug\net5.0\P06.Courses.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\ref\P06.Courses.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P06.Courses\obj\Debug\net5.0\P06.Courses.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.exe
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.deps.json
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.dll
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\ref\P02.ChangeList.dll
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\bin\Debug\net5.0\P02.ChangeList.pdb
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.dll
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\ref\P02.ChangeList.dll
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.pdb
+E:\Programming Fundamentals C#\ListsExercise\P02.ChangeList\obj\Debug\net5.0\P02.ChangeList.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0028ddfd-dd4d-4fef-b96a-3151963dfc00": {
+      "ProjectGuid": "0028ddfd-dd4d-4fef-b96a-3151963dfc00",
+      "DisplayName": "P01.AdvertisementMessage",
+      "ColorIndex": 0
+    },
+    "d186a969-de53-414d-8808-4bebd0e550aa": {
+      "ProjectGuid": "d186a969-de53-414d-8808-4bebd0e550aa",
+      "DisplayName": "P02.Articles",
+      "ColorIndex": 1
+    },
+    "03eb8592-fae5-4046-9452-400d80504a27": {
+      "ProjectGuid": "03eb8592-fae5-4046-9452-400d80504a27",
+      "DisplayName": "P03.Articles2.0",
+      "ColorIndex": 2
+    },
+    "42f111b2-54c6-4d9c-8b56-3213019522ec": {
+      "ProjectGuid": "42f111b2-54c6-4d9c-8b56-3213019522ec",
+      "DisplayName": "P04.Students",
+      "ColorIndex": 3
+    },
+    "b0e01f6b-f44d-4187-ba8c-56a133b1a236": {
+      "ProjectGuid": "b0e01f6b-f44d-4187-ba8c-56a133b1a236",
+      "DisplayName": "P05.TeamworkProjects",
+      "ColorIndex": 4
+    },
+    "264d4088-dc6b-4fd5-9b30-a4f494042e9f": {
+      "ProjectGuid": "264d4088-dc6b-4fd5-9b30-a4f494042e9f",
+      "DisplayName": "P06.VehicleCatalogue",
+      "ColorIndex": 5
+    },
+    "bab384d3-8ba9-49e3-a383-078507abdfa7": {
+      "ProjectGuid": "bab384d3-8ba9-49e3-a383-078507abdfa7",
+      "DisplayName": "P07.OrderByAge",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}

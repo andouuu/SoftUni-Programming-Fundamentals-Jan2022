@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\P02.Gauss'Trick.exe
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\P02.Gauss'Trick.deps.json
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\P02.Gauss'Trick.runtimeconfig.json
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\P02.Gauss'Trick.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\P02.Gauss'Trick.dll
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\ref\P02.Gauss'Trick.dll
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\bin\Debug\net5.0\P02.Gauss'Trick.pdb
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.AssemblyInfo.cs
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.dll
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\ref\P02.Gauss'Trick.dll
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.pdb
+E:\Programming Fundamentals C#\ListsLab\P02.Gauss'Trick\obj\Debug\net5.0\P02.Gauss'Trick.genruntimeconfig.cache

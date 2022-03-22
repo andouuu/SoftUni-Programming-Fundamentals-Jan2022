@@ -1,0 +1,15 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\P09.CharToString.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\P09.CharToString.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\P09.CharToString.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\P09.CharToString.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\P09.CharToString.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\ref\P09.CharToString.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\bin\Debug\net5.0\P09.CharToString.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\ref\P09.CharToString.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P09.CharToString\obj\Debug\net5.0\P09.CharToString.genruntimeconfig.cache

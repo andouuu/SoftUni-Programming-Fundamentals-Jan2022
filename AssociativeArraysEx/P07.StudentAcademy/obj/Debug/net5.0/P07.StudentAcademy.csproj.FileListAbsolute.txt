@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\P07.StudentAcademy.exe
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\P07.StudentAcademy.deps.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\P07.StudentAcademy.runtimeconfig.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\P07.StudentAcademy.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\P07.StudentAcademy.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\ref\P07.StudentAcademy.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\bin\Debug\net5.0\P07.StudentAcademy.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.AssemblyInfo.cs
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\ref\P07.StudentAcademy.dll
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.pdb
+E:\Programming Fundamentals C#\AssociativeArraysEx\P07.StudentAcademy\obj\Debug\net5.0\P07.StudentAcademy.genruntimeconfig.cache

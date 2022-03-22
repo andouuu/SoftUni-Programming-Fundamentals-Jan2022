@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\P10.LowerToUpper.exe
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\P10.LowerToUpper.deps.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\P10.LowerToUpper.runtimeconfig.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\P10.LowerToUpper.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\P10.LowerToUpper.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\ref\P10.LowerToUpper.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\bin\Debug\net5.0\P10.LowerToUpper.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.AssemblyInfo.cs
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\ref\P10.LowerToUpper.dll
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.pdb
+E:\Programming Fundamentals C#\DataTypesAndVariablesLab\P10.LowerToUpper\obj\Debug\net5.0\P10.LowerToUpper.genruntimeconfig.cache
