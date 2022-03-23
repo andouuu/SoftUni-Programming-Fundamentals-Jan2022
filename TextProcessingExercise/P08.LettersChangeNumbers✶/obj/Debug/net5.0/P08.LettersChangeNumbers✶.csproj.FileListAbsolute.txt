@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\P08.LettersChangeNumbers✶.exe
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\P08.LettersChangeNumbers✶.deps.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\P08.LettersChangeNumbers✶.runtimeconfig.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\P08.LettersChangeNumbers✶.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\P08.LettersChangeNumbers✶.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\ref\P08.LettersChangeNumbers✶.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\bin\Debug\net5.0\P08.LettersChangeNumbers✶.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.AssemblyInfo.cs
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\ref\P08.LettersChangeNumbers✶.dll
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.pdb
+E:\Programming Fundamentals C#\TextProcessingExercise\P08.LettersChangeNumbers✶\obj\Debug\net5.0\P08.LettersChangeNumbers✶.genruntimeconfig.cache
