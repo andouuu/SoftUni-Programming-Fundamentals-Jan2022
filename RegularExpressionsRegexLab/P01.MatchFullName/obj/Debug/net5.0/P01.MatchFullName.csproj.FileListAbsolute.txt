@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\bin\Debug\net5.0\P01.MatchFullName.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\bin\Debug\net5.0\P01.MatchFullName.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\bin\Debug\net5.0\P01.MatchFullName.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\bin\Debug\net5.0\P01.MatchFullName.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\bin\Debug\net5.0\P01.MatchFullName.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\bin\Debug\net5.0\P01.MatchFullName.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\refint\P01.MatchFullName.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\P01.MatchFullName.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P01.MatchFullName\obj\Debug\net5.0\ref\P01.MatchFullName.dll

@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\bin\Debug\net5.0\P03.MatchDates.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\bin\Debug\net5.0\P03.MatchDates.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\bin\Debug\net5.0\P03.MatchDates.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\bin\Debug\net5.0\P03.MatchDates.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\bin\Debug\net5.0\P03.MatchDates.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\bin\Debug\net5.0\P03.MatchDates.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\refint\P03.MatchDates.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\P03.MatchDates.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P03.MatchDates\obj\Debug\net5.0\ref\P03.MatchDates.dll

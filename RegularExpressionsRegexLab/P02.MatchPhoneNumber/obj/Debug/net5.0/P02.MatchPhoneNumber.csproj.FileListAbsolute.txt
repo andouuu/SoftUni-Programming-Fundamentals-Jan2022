@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\bin\Debug\net5.0\P02.MatchPhoneNumber.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\bin\Debug\net5.0\P02.MatchPhoneNumber.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\bin\Debug\net5.0\P02.MatchPhoneNumber.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\bin\Debug\net5.0\P02.MatchPhoneNumber.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\bin\Debug\net5.0\P02.MatchPhoneNumber.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\bin\Debug\net5.0\P02.MatchPhoneNumber.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\refint\P02.MatchPhoneNumber.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\P02.MatchPhoneNumber.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexLab\P02.MatchPhoneNumber\obj\Debug\net5.0\ref\P02.MatchPhoneNumber.dll

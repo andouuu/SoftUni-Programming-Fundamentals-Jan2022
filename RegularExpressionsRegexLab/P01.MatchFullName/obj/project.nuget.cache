@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Xf6HxYCYhauZ44WROvtmj/C/16y0jZvpdOF7D6FAfHXutOpjP+hzeCXNLeXBK2YNfb/tL0hnQ6pfyIps9xL1w==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Fundamentals C#\\RegularExpressionsRegexLab\\P01.MatchFullName\\P01.MatchFullName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
