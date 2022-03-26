@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\bin\Debug\net5.0\P01.Furniture.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\bin\Debug\net5.0\P01.Furniture.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\bin\Debug\net5.0\P01.Furniture.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\bin\Debug\net5.0\P01.Furniture.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\bin\Debug\net5.0\P01.Furniture.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\bin\Debug\net5.0\P01.Furniture.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\refint\P01.Furniture.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\P01.Furniture.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P01.Furniture\obj\Debug\net5.0\ref\P01.Furniture.dll

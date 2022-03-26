@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\bin\Debug\net5.0\P02.Race.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\bin\Debug\net5.0\P02.Race.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\bin\Debug\net5.0\P02.Race.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\bin\Debug\net5.0\P02.Race.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\bin\Debug\net5.0\P02.Race.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\bin\Debug\net5.0\P02.Race.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\refint\P02.Race.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\P02.Race.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P02.Race\obj\Debug\net5.0\ref\P02.Race.dll

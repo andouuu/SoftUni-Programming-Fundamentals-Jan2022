@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.Furniture", "P01.Furniture\P01.Furniture.csproj", "{F7DEA411-1F8B-4BE3-B844-2E790DFDB34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.Race", "P02.Race\P02.Race.csproj", "{49FDD52A-890D-4395-9DE2-1CF4D61EF2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03.SoftUniBarIncome", "P03.SoftUniBarIncome\P03.SoftUniBarIncome.csproj", "{1714A1FE-826C-4797-9F55-F9D0B8D8141E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04.StarEnigma", "P04.StarEnigma\P04.StarEnigma.csproj", "{9C1B3F9F-C253-4F11-B8DC-3DE9E0A41FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05.NetherRealms", "P05.NetherRealms\P05.NetherRealms.csproj", "{CCD6FF1F-EBE5-4710-85B8-3528CA4A7A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06.ExtractEmails", "P06.ExtractEmails\P06.ExtractEmails.csproj", "{15BAED17-9925-4A9C-ABC3-9797E6BDA343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DEA411-1F8B-4BE3-B844-2E790DFDB34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DEA411-1F8B-4BE3-B844-2E790DFDB34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DEA411-1F8B-4BE3-B844-2E790DFDB34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DEA411-1F8B-4BE3-B844-2E790DFDB34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FDD52A-890D-4395-9DE2-1CF4D61EF2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FDD52A-890D-4395-9DE2-1CF4D61EF2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FDD52A-890D-4395-9DE2-1CF4D61EF2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FDD52A-890D-4395-9DE2-1CF4D61EF2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1714A1FE-826C-4797-9F55-F9D0B8D8141E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1714A1FE-826C-4797-9F55-F9D0B8D8141E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1714A1FE-826C-4797-9F55-F9D0B8D8141E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1714A1FE-826C-4797-9F55-F9D0B8D8141E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1B3F9F-C253-4F11-B8DC-3DE9E0A41FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1B3F9F-C253-4F11-B8DC-3DE9E0A41FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1B3F9F-C253-4F11-B8DC-3DE9E0A41FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1B3F9F-C253-4F11-B8DC-3DE9E0A41FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD6FF1F-EBE5-4710-85B8-3528CA4A7A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD6FF1F-EBE5-4710-85B8-3528CA4A7A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD6FF1F-EBE5-4710-85B8-3528CA4A7A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD6FF1F-EBE5-4710-85B8-3528CA4A7A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BAED17-9925-4A9C-ABC3-9797E6BDA343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BAED17-9925-4A9C-ABC3-9797E6BDA343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BAED17-9925-4A9C-ABC3-9797E6BDA343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BAED17-9925-4A9C-ABC3-9797E6BDA343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36E1713-F642-40AB-AEF7-675F3BA11F03}
+	EndGlobalSection
+EndGlobal
