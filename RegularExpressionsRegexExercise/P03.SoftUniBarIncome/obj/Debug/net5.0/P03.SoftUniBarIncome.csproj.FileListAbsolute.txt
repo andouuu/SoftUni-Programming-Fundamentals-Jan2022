@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\bin\Debug\net5.0\P03.SoftUniBarIncome.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\bin\Debug\net5.0\P03.SoftUniBarIncome.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\bin\Debug\net5.0\P03.SoftUniBarIncome.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\bin\Debug\net5.0\P03.SoftUniBarIncome.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\bin\Debug\net5.0\P03.SoftUniBarIncome.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\bin\Debug\net5.0\P03.SoftUniBarIncome.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\refint\P03.SoftUniBarIncome.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\P03.SoftUniBarIncome.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P03.SoftUniBarIncome\obj\Debug\net5.0\ref\P03.SoftUniBarIncome.dll
