@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\bin\Debug\net5.0\P04.StarEnigma.exe
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\bin\Debug\net5.0\P04.StarEnigma.deps.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\bin\Debug\net5.0\P04.StarEnigma.runtimeconfig.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\bin\Debug\net5.0\P04.StarEnigma.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\bin\Debug\net5.0\P04.StarEnigma.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\bin\Debug\net5.0\P04.StarEnigma.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.AssemblyInfo.cs
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\refint\P04.StarEnigma.dll
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.pdb
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\P04.StarEnigma.genruntimeconfig.cache
+E:\Programming Fundamentals C#\RegularExpressionsRegexExercise\P04.StarEnigma\obj\Debug\net5.0\ref\P04.StarEnigma.dll

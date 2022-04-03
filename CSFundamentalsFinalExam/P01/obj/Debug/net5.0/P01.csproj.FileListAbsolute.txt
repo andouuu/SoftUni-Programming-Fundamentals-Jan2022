@@ -1,0 +1,16 @@
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\bin\Debug\net5.0\P01.exe
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\bin\Debug\net5.0\P01.deps.json
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\bin\Debug\net5.0\P01.runtimeconfig.json
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\bin\Debug\net5.0\P01.runtimeconfig.dev.json
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\bin\Debug\net5.0\P01.dll
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\bin\Debug\net5.0\P01.pdb
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.csproj.AssemblyReference.cache
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.AssemblyInfoInputs.cache
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.AssemblyInfo.cs
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.csproj.CoreCompileInputs.cache
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.dll
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\refint\P01.dll
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.pdb
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\P01.genruntimeconfig.cache
+E:\Programming Fundamentals C#\CSFundamentalsFinalExam\P01\obj\Debug\net5.0\ref\P01.dll
